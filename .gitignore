@@ -4,5 +4,5 @@ octave-workspace
 
 # NetBeans
 build/
-build.mxl
+build.xml
 manifest.mf
