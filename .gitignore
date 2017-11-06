@@ -1,0 +1,8 @@
+.DS_Store
+
+octave-workspace
+
+# NetBeans
+build/
+build.mxl
+manifest.mf
