@@ -6,3 +6,4 @@ octave-workspace
 build/
 build.xml
 manifest.mf
+/nhan-to/nbproject/private/
