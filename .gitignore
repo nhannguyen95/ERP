@@ -1,9 +1,14 @@
 .DS_Store
 
+# Octave
 octave-workspace
 
 # NetBeans
 build/
 build.xml
 manifest.mf
-/nhan-to/nbproject/private/
+**/nbproject/private/
+*/lib
+
+# Class files
+*.class
