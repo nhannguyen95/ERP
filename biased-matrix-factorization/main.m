@@ -5,7 +5,7 @@ clear; close all; clc
 % Row: user
 % Column: item
 % Cell(i, j): rating of ith user for jth item
-R = load('input/data.txt');  % R(i)(j) = 0 means unrated
+R = load('input/data.txt');  % R(i)(j) = -1 means unrated
 R
 
 [N, M] = size(R);
