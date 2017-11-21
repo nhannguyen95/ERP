@@ -76,6 +76,10 @@ Provider 3
 1 2 2 3 4
 ```
 
+### Java library
+
+[Efficient Java Matrix Library (EJML)](http://ejml.org)
+
 ### References
 
 [[1] A Fuzzy AHP Approach for Supplier Selection Problem: A Case Study in a Gear Motor Company](https://arxiv.org/abs/1311.2886)
