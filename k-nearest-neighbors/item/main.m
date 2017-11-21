@@ -1,4 +1,4 @@
-data = load('data.txt');
+data = load('input/data.txt');
 fprintf("Data:\n\n");
 data
 data = data';
